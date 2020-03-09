@@ -1,0 +1,52 @@
+.icon-phone, 
+.icon---right-turn-sign, 
+.icon-whatsapp, 
+.icon-domain, 
+.icon-clock, 
+.icon-tab, 
+.icon-expensive-2, 
+.icon-cheap-2, 
+.icon-average-2, 
+.icon-facebook-f, 
+.icon-instagram, 
+.icon-snapchat, 
+.icon-search, 
+.icon-documents, 
+.icon-movies-folder, 
+.icon-map, 
+.icon-mastercard, 
+.icon-geography
+ {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: -0.1em;
+}
+
+.icon-phone>svg, 
+.icon---right-turn-sign>svg, 
+.icon-whatsapp>svg, 
+.icon-domain>svg, 
+.icon-clock>svg, 
+.icon-tab>svg, 
+.icon-expensive-2>svg, 
+.icon-cheap-2>svg, 
+.icon-average-2>svg, 
+.icon-facebook-f>svg, 
+.icon-instagram>svg, 
+.icon-snapchat>svg, 
+.icon-search>svg, 
+.icon-documents>svg, 
+.icon-movies-folder>svg, 
+.icon-map>svg, 
+.icon-mastercard>svg, 
+.icon-geography>svg
+ {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: -0.1em;
+}
+
